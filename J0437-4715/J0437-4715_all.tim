@@ -1,0 +1,9 @@
+FORMAT 1
+MODE 1
+INCLUDE tims/GM_GWB_1460_100.0_b1_pre36.tim
+INCLUDE tims/GM_GWB_1460_200.0_b0_post36.tim
+INCLUDE tims/GM_GWB_1460_200.0_b0_pre36.tim
+INCLUDE tims/GM_GWB_1460_200.0_b1_pre36.tim
+INCLUDE tims/GM_GWB_500_100.0_b1_pre36.tim
+INCLUDE tims/GM_GWB_500_200.0_b0_pre36.tim
+INCLUDE tims/GM_GWB_500_200.0_b1_post36.tim

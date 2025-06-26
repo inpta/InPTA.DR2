@@ -1,0 +1,3 @@
+FORMAT 1
+MODE 1
+J1455-3330_58389.268446_1460.rfiClean.fits.tmp 1384.95117200 58389.27674758479565043 43.24700 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 50 -tobs 1440.2 -tmplt J1455-3330_b5_200.none.0001_00000.955 -gof 0.955 -nbin 64 -nch 512 -prof_snr 8.99 -pta InPTA -sys GM_GWB_1460_100.0_b1 -group GM_GWB_1460_100.0_b1_pre36 -bandno 5 -chan 0 -cycle_post34

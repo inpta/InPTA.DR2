@@ -1,0 +1,4 @@
+FORMAT 1
+MODE 1
+J1614-2230_58276.705779_1460.rfiClean.fits.tmp 1434.95117200 58276.71407378823849044 20.41300 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 50 -tobs 1439.5 -tmplt J1614-2230_b5_200.UB202.0001_0001.41 -gof 1.41 -nbin 32 -nch 512 -prof_snr 15.89 -pta InPTA -sys GM_GWB_1460_100.0_b1 -group GM_GWB_1460_100.0_b1_pre36 -bandno 5 -chan 1 -cycle_post34
+J1614-2230_58566.855991_1460.rfiClean.fits.tmp 1384.95117200 58566.86563644064708711 26.29300 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 50 -tobs 1680.1 -tmplt J1614-2230_b5_200.UB202.0001_0000.637 -gof 0.637 -nbin 32 -nch 512 -prof_snr 10.68 -pta InPTA -sys GM_GWB_1460_100.0_b1 -group GM_GWB_1460_100.0_b1_pre36 -bandno 5 -chan 0 -cycle_post34
