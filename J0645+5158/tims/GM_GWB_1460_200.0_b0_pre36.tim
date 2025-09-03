@@ -1,4 +1,4 @@
 FORMAT 1
 MODE 1
-J0645+5158_57816.554614_1460.rfiClean.fits.tmp 1297.54882800 57816.56155868138166554 26.43400 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1202.6 -tmplt J0645+5158_b5_200.UB309.std -gof 0.748 -nbin 64 -nch 256 -prof_snr 8.30 -pta InPTA -sys GM_GWB_1460_200.0_b0 -group GM_GWB_1460_200.0_b0_pre36 -bandno 5 -chan 1 -cycle_pre34
-J0645+5158_57816.554614_1460.rfiClean.fits.tmp 1372.54882800 57816.56155862573339022 24.53800 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1202.6 -tmplt J0645+5158_b5_200.UB309.std -gof 0.829 -nbin 64 -nch 256 -prof_snr 9.26 -pta InPTA -sys GM_GWB_1460_200.0_b0 -group GM_GWB_1460_200.0_b0_pre36 -bandno 5 -chan 4 -cycle_pre34
+J0645+5158_57816.554614_1460.rfiClean.fits.tmp 1297.54882800 57816.56155868138166554 26.43400 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1202.6 -tmplt J0645+5158_b5_200.UB309.std -gof 0.748 -nbin 64 -nch 256 -prof_snr 8.30 -pta InPTA -sys GM_GWB_1460_200.0_b0 -group GM_GWB_1460_200.0_b0_pre36 -bandno 5 -chan 1 -cycle pre34
+J0645+5158_57816.554614_1460.rfiClean.fits.tmp 1372.54882800 57816.56155862573339022 24.53800 gmrt -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1202.6 -tmplt J0645+5158_b5_200.UB309.std -gof 0.829 -nbin 64 -nch 256 -prof_snr 9.26 -pta InPTA -sys GM_GWB_1460_200.0_b0 -group GM_GWB_1460_200.0_b0_pre36 -bandno 5 -chan 4 -cycle pre34
